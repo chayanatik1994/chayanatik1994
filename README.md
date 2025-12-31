@@ -14,9 +14,9 @@ I focus on creating practical projects and continuously learning new technologie
 ---
 
 ## 🔭 Current Activities
-- I am exploring **Next.js**.  
-- I’m working on a **tourism website**.  
-- Building and refining **personal MERN stack projects**.  
+- I am exploring **Next.js**  
+- I’m working on a **tourism website**  
+- Building and refining **personal MERN stack projects**  
 
 ---
 
@@ -42,6 +42,7 @@ I focus on creating practical projects and continuously learning new technologie
 ## 🚀 Projects
 - 🏟️ **Skill Arena** – Online skill development platform  
 - 📚 **StudyMate** – Study and collaboration platform for students  
+  [Live Demo](https://studymate-crud-server-eudme5cl5-sm-atikur-rahmans-projects.vercel.app)  
 - 🧸 **ToysLand** – E-commerce platform for toys  
 
 ---
@@ -58,12 +59,10 @@ I focus on creating practical projects and continuously learning new technologie
   <img src="https://github-readme-stats.vercel.app/api?username=chayanatik1994&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
-<!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanatik1994&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-<!-- GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayanatik1994&theme=radical" alt="GitHub Streak"/>
 </p>
