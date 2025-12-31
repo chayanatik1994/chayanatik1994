@@ -41,7 +41,7 @@ I focus on creating practical projects and continuously learning new technologie
 ## 🚀 Projects
 - 🏟️ **Skill Arena** – Online skill development platform  
 - 📚 **StudyMate** – Study and collaboration platform for students  
-- 🧸 **ToysLand** – E-commerce platform for toys  
+- 🧸 **NextSoft** – Online Apps
 
 ---
 
