@@ -64,9 +64,7 @@ I focus on creating practical projects and continuously learning new technologie
 </p>
 
 <!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayanatik1994&theme=radical" alt="GitHub Streak"/>
-</p>
+<
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayanatik1994&theme=radical" alt="Contribution Summary"/>
