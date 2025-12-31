@@ -1,4 +1,4 @@
-Sm Atikur Rahman 👋
+Sm Atikur Rahman 
 Aspiring Full-Stack Software Developer
 
 About Me
