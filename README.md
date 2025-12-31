@@ -9,14 +9,14 @@
 
 ## 👋 About Me
 I am an aspiring **MERN Stack Developer** passionate about building responsive and user-friendly web applications.  
-I focus on creating practical projects and continuously learning new technologies.  
+I focus on creating practical projects and continuously learning new technologies.
 
 ---
 
 ## 🔭 Current Activities
-- I am exploring **Next.js**.  
-- I’m working on a **tourism website**.  
-- Building and refining **personal MERN stack projects**.  
+- Exploring **Next.js**  
+- Working on a **tourism website**  
+- Building and refining **personal MERN stack projects**
 
 ---
 
@@ -58,13 +58,13 @@ I focus on creating practical projects and continuously learning new technologie
   <img src="https://github-readme-stats.vercel.app/api?username=chayanatik1994&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
-<!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanatik1994&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-<!-- GitHub Streak -->
-<
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayanatik1994&theme=radical" alt="GitHub Streak"/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayanatik1994&theme=radical" alt="Contribution Summary"/>
