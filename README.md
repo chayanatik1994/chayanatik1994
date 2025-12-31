@@ -8,7 +8,7 @@
 ---
 
 ## 👋 About Me
-I am an aspiring **MERN Stack Developer** passionate about building responsive and user-friendly web applications.  
+I am an aspiring **Full-Stack MERN Stack Developer** passionate about building responsive and user-friendly web applications.  
 I focus on creating practical projects and continuously learning new technologies.
 
 ---
@@ -34,7 +34,6 @@ I focus on creating practical projects and continuously learning new technologie
 
 ### Tools & Other
 - 🛠 Git & GitHub  
-- 🧪 Postman  
 - 🗄 MongoDB  
 
 ---
