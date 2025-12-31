@@ -1,49 +1,52 @@
-Sm Atikur Rahman 
-Aspiring Full-Stack Software Developer
+<p align="center">
+  <img src="https://i.ibb.co/fVDHMp51/Roadmap-to-Mern-stack-developer-copy-3.webp" alt="Banner" width="800"/>
+</p>
 
-About Me
+# Sm Atikur Rahman
+**Aspiring Full-Stack Software Developer**
 
-I am an aspiring MERN Software Developer passionate about building responsive and user-friendly web applications. I am learning and developing projects using:
-🌐 HTML, 🎨 CSS, ⚛️ React, 🟪 Tailwind CSS, 🟢 Node.js, ⚡ Express.js.
+---
 
-💻 Skills
+## About Me
+I am an aspiring **MERN Stack Developer** passionate about building responsive and user-friendly web applications.  
+I am learning and developing projects using:  
+🌐 **HTML**, 🎨 **CSS**, ⚛️ **React**, 🟪 **Tailwind CSS**, 🟢 **Node.js**, ⚡ **Express.js**.
 
-Frontend
+---
 
-🌐 HTML
+## 💻 Skills
 
-🎨 CSS
+### Frontend
+- 🌐 HTML
+- 🎨 CSS
+- ⚛️ React
+- 🟪 Tailwind CSS
 
-⚛️ React
+### Backend
+- 🟢 Node.js
+- ⚡ Express.js
 
-🟪 Tailwind CSS
+---
 
-Backend
+## 🚀 Projects
+- 🏟️ **Skill Arena** – Online skill development platform  
+- 📚 **StudyMate** – Study and collaboration platform for students  
+- 🧸 **ToysLand** – E-commerce platform for toys  
 
-🟢 Node.js
+---
 
-⚡ Express.js
+## 📫 Contact Me
+- 📧 Email: chayanatik.dev@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/chayanatik](https://www.linkedin.com/in/chayanatik)  
+- 💻 GitHub: [github.com/chayanatik1994](https://github.com/chayanatik1994)  
 
-🚀 Projects
+---
 
-🏟️ Skill Arena – Online skill development platform
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chayanatik1994&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
 
-📚 StudyMate – Study and collaboration platform for students
-
-🧸 ToysLand – E-commerce platform for toys
-
-📫 Contact Me
-
-📧 Email: chayanatik.dev@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/chayanatik
-
-💻 GitHub: https://github.com/chayanatik1994
-
-📊 GitHub Stats 
-
-Total Repositories: 20+
-
-Contributions: 50+
-
-Most Used Languages: JavaScript, HTML, CSS, Node.js
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanatik1994&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
