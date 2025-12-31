@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/fVDHMp51/Roadmap-to-Mern-stack-developer-copy-3.webp" alt="Banner" width="800"/>
+  <img src="https://i.ibb.co/fVDHMp51/Roadmap-to-Mern-stack-developer-copy-3.webp" alt="Banner" width="700"/>
 </p>
 
 # Sm Atikur Rahman
@@ -8,57 +8,58 @@
 ---
 
 ## 👋 About Me
-I am an aspiring **Full-Stack MERN Stack Developer** passionate about building responsive and user-friendly web applications.  
-I focus on creating practical projects and continuously learning new technologies.
+I am an aspiring **Full-Stack MERN Developer** passionate about building responsive and user-friendly web applications.  
+I focus on creating practical projects and continuously learning modern web technologies.
 
 ---
 
 ## 🔭 Current Activities
 - Exploring **Next.js**  
 - Working on a **tourism website**  
-- Building and refining **Practical MERN stack projects**
+- Building and refining **practical MERN stack projects**
 
 ---
 
 ## 💻 Skills
 
 ### Frontend
-- 🌐 HTML  
-- 🎨 CSS  
-- ⚛️ React  
-- 🟪 Tailwind CSS  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
-- 🟢 Node.js  
-- ⚡ Express.js  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 
-### Tools & Other
-- 🛠 Git & GitHub  
-- 🗄 MongoDB  
+### Tools & Others
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🚀 Projects
-- 🏟️ **Skill Arena** – Online skill development platform  
-- 📚 **StudyMate** – Study and collaboration platform for students  
-- 🧸 **NextSoft** – Online Apps
+- 🏟️ **Skill Arena** – Online skill development platform [Live] ) | [Repo](#)  
+- 📚 **StudyMate** – Study and collaboration platform for students [Live](#) | [Repo](#)  
+- 🧸 **NextSoft** – Online Apps [Live](http://localhost:5173) | [Repo](#)  
 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: [chayanatik.dev@gmail.com](mailto:chayanatik.dev@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/chayanatik](https://www.linkedin.com/in/chayanatik)  
-- 💻 GitHub: [github.com/chayanatik1994](https://github.com/chayanatik1994)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chayanatik)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chayanatik1994)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chayanatik.dev@gmail.com)  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chayanatik1994&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chayanatik1994&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanatik1994&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanatik1994&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
