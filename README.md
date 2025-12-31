@@ -3,7 +3,7 @@ Aspiring Full-Stack Software Developer
 
 About Me
 
-I am an aspiring Full-Stack Software Developer passionate about building responsive and user-friendly web applications. I am learning and developing projects using:
+I am an aspiring MERN Software Developer passionate about building responsive and user-friendly web applications. I am learning and developing projects using:
 🌐 HTML, 🎨 CSS, ⚛️ React, 🟪 Tailwind CSS, 🟢 Node.js, ⚡ Express.js.
 
 💻 Skills
