@@ -16,7 +16,7 @@ I focus on creating practical projects and continuously learning new technologie
 ## 🔭 Current Activities
 - Exploring **Next.js**  
 - Working on a **tourism website**  
-- Building and refining **personal MERN stack projects**
+- Building and refining **Practical MERN stack projects**
 
 ---
 
