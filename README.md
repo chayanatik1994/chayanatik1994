@@ -48,7 +48,7 @@ I focus on creating practical projects and continuously learning modern web tech
 - 🧸 **NextSoft** – Online Apps management platform  
   🔗 [Client Repo](https://github.com/chayanatik1994/NextSoft)  
 
-> ✅ Notes: Replace `#` in "Live" links with your actual deployed URLs when available.
+
 
 ---
 
