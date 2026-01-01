@@ -39,9 +39,16 @@ I focus on creating practical projects and continuously learning modern web tech
 ---
 
 ## 🚀 Projects
-- 🏟️ **Skill Arena** – Online skill development platform [Live] ) | [Repo](#)  
-- 📚 **StudyMate** – Study and collaboration platform for students [Live](#) | [Repo](#)  
-- 🧸 **NextSoft** – Online Apps [Live](http://localhost:5173) | [Repo](#)  
+- 🏟️ **Skill Arena** – Online skill development platform  
+  🔗 [Live](#) | [Client Repo](https://github.com/chayanatik1994/skill-arena-client) | [Server Repo](https://github.com/chayanatik1994/skill-arena-server)
+
+- 📚 **StudyMate** – Study and collaboration platform for students  
+  🔗 [Live](#) | [Client Repo](https://github.com/chayanatik1994/studymate) | [Server Repo](https://github.com/chayanatik1994/studymate-server-crud)
+
+- 🧸 **NextSoft** – Online Apps management platform  
+  🔗 [Client Repo](https://github.com/chayanatik1994/NextSoft)  
+
+> ✅ Notes: Replace `#` in "Live" links with your actual deployed URLs when available.
 
 ---
 
