@@ -8,9 +8,7 @@
 ---
 
 ## 👋 About Me
-I am a Junior Full-Stack | Frontend Developer trained in the MERN stack.  
-I build responsive, scalable, and user-friendly web applications using React.js, Next.js, Tailwind CSS (frontend) and Node.js, Express.js, MongoDB (backend).
-
+     I am a  Full-Stack | Junior Frontend Developer  with hands-on experience building responsive, user-friendly web applications using the MERN stack.I focus on clean UI, reusable components, practical problem-      solving, and effective collaboration within a professional development team.
 ---
 
 ## 🔭 Current Activities
