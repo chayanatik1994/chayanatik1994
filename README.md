@@ -3,7 +3,7 @@
 </p>
 
 # Sm Atikur Rahman
-**Junior Full-Stack / Frontend Developer | MERN**
+**Junior Full-Stack | Frontend Developer | MERN**
 
 ---
 
