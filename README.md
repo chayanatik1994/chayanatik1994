@@ -3,13 +3,12 @@
 </p>
 
 # Sm Atikur Rahman
-**Aspiring Full-Stack MERN Developer**
+**Junior Full-Stack MERN Developer | React.js • Node.js • Tailwind CSS | Responsive UI**
 
 ---
 
 ## 👋 About Me
-I am an aspiring **Full-Stack MERN Developer** passionate about building responsive and user-friendly web applications.  
-I focus on creating practical projects and continuously learning modern web technologies.
+I am a Junior Full-Stack MERN Developer passionate about building responsive, user-focused web applications. I specialize in creating practical projects using React.js, Node.js, Express.js, MongoDB, Tailwind CSS, and Next.js, delivering clean, scalable, and high-performance solutions.
 
 ---
 
